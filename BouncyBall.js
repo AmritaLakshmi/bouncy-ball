@@ -11,7 +11,7 @@ class BouncyBall{
 		 	//restitution:5,
 		 	//friction:5
 		 	//density:20
-	       }
+	       //}
 		
 		   //var options={
 		 	//restitution:0.3,
@@ -58,4 +58,4 @@ class BouncyBall{
 			// body(0,0,this.r, this.r);
 			pop()
 	}
-
+}
